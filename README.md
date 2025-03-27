@@ -1,4 +1,4 @@
-*/Retail Dashboard README/*
+/*Retail Dashboard README*/
 Project Title: Retail Dashboard
 Description
 This project is a Retail Dashboard created to visualize and analyze sales, profit, and order data across various dimensions such as product categories, shipment methods, geographical regions, and customer segments. It provides actionable insights for stakeholders in the retail industry by presenting data in an interactive and visually appealing format.
